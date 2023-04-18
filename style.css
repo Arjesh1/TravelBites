@@ -1,11 +1,19 @@
+html {
+    scroll-behavior: auto;
+  }
+
 *{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
+.herocontainer{
+    height: 100vh;
+}
+
 .heroImg{
-    height: 700px;
+    height: 100vh;
 }
 
 .headings{
@@ -35,4 +43,32 @@ border-radius: 10px;
 .places{
     padding-top:1rem;
      padding-bottom: 1rem;
+     height: 100vh;
+     background-image: url(./assets/placesbg.jpg);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: center;
+     background-size: cover;
+     
+}
+
+.place{
+    font-size: 8rem;
+    color: black;
+}
+
+.hotels{
+    padding-top:1rem;
+     padding-bottom: 1rem;
+     height: 100vh;
+     background-image: url(./assets/hotelbg.jpg);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: center;
+     background-size: cover;
+     
+}
+
+.hotel{
+    font-size: 8rem;
 }
