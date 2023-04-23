@@ -8,6 +8,10 @@ html {
     padding: 0;
 }
 
+.nav-link{
+  color: black !important;
+}
+
 .herocontainer{
     height: 100vh;
 }
@@ -174,3 +178,11 @@ background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF5C33 60%, #FF7
     font-size:13px;
     opacity:0.6;
   }
+
+
+
+.form-register{
+  margin-top: 10rem;
+  width: 25rem;
+  
+}
