@@ -186,3 +186,13 @@ background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF5C33 60%, #FF7
   width: 25rem;
   
 }
+
+
+.contact-con{
+  margin-top: 9rem !important;
+}
+
+.form-register{
+  padding: 2rem;
+  border-radius: 10px;
+}
