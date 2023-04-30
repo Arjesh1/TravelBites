@@ -13,11 +13,11 @@ html {
 }
 
 .herocontainer{
-    height: 100vh;
+    height: 80vh;
 }
 
 .heroImg{
-    height: 100vh;
+    height: 80vh;
 }
 
 .headings{
@@ -48,6 +48,22 @@ border-radius: 10px;
 }
 
 
+  .GeneratedMarquee {
+  font-family:'Comic Sans MS';
+  font-size:2em;
+  line-height:1.3em;
+  color:#996600;
+  background-color:#FFFFFF;
+  padding:1.5em;
+  
+  }
+  
+  .marqueImg{
+    width: 3rem;
+    height: auto;
+  }
+  
+
 
 .places{
     padding-top:1rem;
@@ -73,6 +89,7 @@ background: linear-gradient(to right, #2B8EFF 6%, #CF0816 100%);
 .place-img1{
   width: 75%;
   padding: 1rem;
+  border-radius: 2rem;
 }
 
 .place-heading{
