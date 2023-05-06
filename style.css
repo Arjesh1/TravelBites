@@ -98,6 +98,10 @@ background: linear-gradient(to right, #2B8EFF 6%, #CF0816 100%);
   
 }
 
+.more-place{
+  width: 90%;
+}
+
 .hotels{
     padding-top:1rem;
      padding-bottom: 1rem;
