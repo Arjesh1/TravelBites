@@ -106,11 +106,8 @@ background: linear-gradient(to right, #2B8EFF 6%, #CF0816 100%);
     padding-top:1rem;
      padding-bottom: 1rem;
      height: 100vh;
-     background-image: url(./assets/hotelbg.jpg);
-     background-repeat: no-repeat;
-     background-attachment: fixed;
-     background-position: center;
-     background-size: cover;
+     margin-bottom: 23rem;
+     
      
 }
 
@@ -124,8 +121,14 @@ background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF5C33 60%, #FF7
 
 
 /****Footer ******/
+.footer-line{
+  border-top: 0.2rem solid #000000;
+}
+
+
 .footer-clean {
     padding:50px 0;
+    margin-top: 4rem;
     background-color:#fff;
     color:#4b4c4d;
   }
