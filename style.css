@@ -120,6 +120,11 @@ background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF5C33 60%, #FF7
 }
 
 
+.register-img{
+  margin-top: 11rem;
+  width: 100%;
+}
+
 /****Footer ******/
 .footer-line{
   border-top: 0.2rem solid #000000;
