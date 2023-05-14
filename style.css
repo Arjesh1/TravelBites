@@ -119,6 +119,10 @@ background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF5C33 60%, #FF7
 -webkit-text-fill-color: transparent;
 }
 
+.card-img-top:hover{
+  width: 100%;
+}
+
 
 .register-img{
   margin-top: 11rem;
