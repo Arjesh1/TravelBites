@@ -22,18 +22,18 @@ html {
 
 .headings{
     padding: 1rem;
-    background: rgba( 255, 255, 255, 0 );
+    /* background: rgba( 255, 255, 255, 0 );
 box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
 backdrop-filter: blur( 2px );
 -webkit-backdrop-filter: blur( 2px );
-border-radius: 10px;
+border-radius: 10px; */
 }
 
 .heading{
     font-family: 'Vollkorn', serif;
     font-size: 4.5rem;
-    color: #22a7c9 !important;
-    z-index: 99999;
+    color: #ffffff !important;
+    /* z-index: 99999; */
     /* background: #FF1414;
     background: linear-gradient(to right, #FF1414 0%, #FFB217 40%, #309FCF 85%);
     -webkit-background-clip: text;
@@ -43,7 +43,7 @@ border-radius: 10px;
 .sloganText{
     font-family: 'Vollkorn', serif;
     font-size: 1.5rem;
-    color: rgb(245, 245, 245);
+    color: rgb(255, 255, 255);
 
 }
 
